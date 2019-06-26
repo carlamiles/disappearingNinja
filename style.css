@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    vertical-align: top;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+img {
+    width: 200px;
+}
+a, a:link, a:visited {
+    text-decoration: none;
+    color: white;
+    background-color: hotpink;
+    padding: 5px;
+    display: block;
+    width: 100px;
+    margin: 50px 500px;
+    border-radius: 5px;
+    text-align: center;
+}
